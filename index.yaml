@@ -82,6 +82,14 @@ entries:
     - https://github.com/irfanhabib/stratos/releases/download/2.0.0-397ecf7-null/console-helm-chart-2.0.0-397ecf7-null.tgz
     version: 2.0.0-397ecf7-null
   - apiVersion: v1
+    created: 2018-08-20T13:01:53.769651965Z
+    description: A Helm chart for deploying Stratos UI Console
+    digest: a649b21ea48c55a47f2078ac17bc613785bedcb435cc946001da12dd0a193c73
+    name: console
+    urls:
+    - https://github.com/irfanhabib/stratos/releases/download/2.0.0-2c6d852/console-helm-chart-2.0.0-2c6d852.tgz
+    version: 2.0.0-2c6d852
+  - apiVersion: v1
     created: 2018-04-12T13:14:55.249329644Z
     description: A Helm chart for deploying Stratos UI Console
     digest: 7c8d2c2524ce035254a1efff72c2a2731b4425830b95603b30dc7ad4a9a5120e
@@ -179,4 +187,4 @@ entries:
     urls:
     - https://github.com/SUSE/stratos-metrics/releases/download/2.0.0-metrics-dev/metrics-0.2.0.tgz
     version: 2.0.0-metrics-dev
-generated: 2018-08-20T12:42:33.411000022Z
+generated: 2018-08-20T13:01:53.768593794Z
