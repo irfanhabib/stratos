@@ -161,15 +161,15 @@ entries:
     digest: 9c6bac79b2f8a6c9b52a077eaf4343c61fed764913c8d2d40d7baddcf7e34866
     name: metrics
     urls:
-    - https://github.com/SUSE/stratos-metrics/releases/download/2.0.0-metrics-dev/metrics-0.2.0.tgz
-    version: 2.0.0-metrics-dev
+    - https://github.com/SUSE/stratos-metrics/releases/download/2.0.0-metrics-dev-test-9e3eec4c/metrics-0.2.0.tgz
+    version: 2.0.0-metrics-dev-test-9e3eec4c
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-26T13:40:01.262114899Z
+    created: 2018-10-26T14:07:46.285986773Z
     description: A Helm chart for Stratos Metrics
-    digest: 0cdf36148a6f6f8cd2f1b78ab46b6c95ef6c591305438f947f54ff5e887d657a
+    digest: 37489e90de472a94788831c8e921467493ef0a4e3a77f6b4cbee1ec144f7d1d1
     name: metrics
     urls:
-    - https://github.com/SUSE/stratos-metrics/releases/download/2.0.0-metrics-dev-test/console-metrics-helm-chart-v2.0.0-metrics-dev-test-e27c480f.tgz
+    - https://github.com/SUSE/stratos-metrics/releases/download/2.0.0-metrics-dev-test-9e3eec4c-test/console-metrics-helm-chart-v2.0.0-metrics-dev-test-9e3eec4c-test-e27c480f.tgz
     version: 0.3.0
 generated: 2018-10-26T13:40:01.260372499Z
