@@ -165,7 +165,7 @@ entries:
     version: 2.0.0-metrics-dev-test-9e3eec4c
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-26T14:07:46.285986773Z
+    created: 2018-10-26T14:37:28.267559475Z
     description: A Helm chart for Stratos Metrics
     digest: 37489e90de472a94788831c8e921467493ef0a4e3a77f6b4cbee1ec144f7d1d1
     name: metrics
